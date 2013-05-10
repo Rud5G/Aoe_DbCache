@@ -1,2 +1,2 @@
-app/etc/modules/*				app/etc/modules/
+app/etc/modules/Aoe_DbCache.xml				app/etc/modules/Aoe_DbCache.xml
 app/code/local/Aoe/DbCache		app/code/local/Aoe/DbCache
